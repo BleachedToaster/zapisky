@@ -12,3 +12,6 @@ elif fly == "ne"or"mozna": # elif je dalsi podminka akorat v retezci
 else:             # else je za predpokladu ze zadna z techto podminek se nesplni
     print("tak ty mas dost")
 # print nam vypise to co je v zavorce
+#git clone
+#cd
+#git pull
