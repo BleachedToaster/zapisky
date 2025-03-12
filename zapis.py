@@ -15,3 +15,8 @@ else:             # else je za predpokladu ze zadna z techto podminek se nesplni
 #git clone
 #cd
 #git pull
+
+
+## for cyklus - typek to opakuje nekolikrat 
+for i in range(10):
+    print("kabel")
